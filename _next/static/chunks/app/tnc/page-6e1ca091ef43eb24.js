@@ -318,7 +318,7 @@
                           url: "https://x.com/"
                       },  {
                           name: "tg",
-                          url: "https://t.me/"
+                          url: "https://t.me/destra_ai"
                       }].map(e => (0,
                       r.jsx)("a", {
                           href: e.url,

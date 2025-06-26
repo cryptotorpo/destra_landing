@@ -6750,7 +6750,7 @@
                       className: "flex gap-1",
                       children: (0,
                       i.jsx)(D.default, {
-                          href: "https://destranetwork.io/",
+                          href: "https://app.destraai.pro/",
                           target: "_blank",
                           className: "justify-center",
                           children: (0,
@@ -11211,7 +11211,7 @@
                           url: "https://x.com/"
                       },  {
                           name: "tg",
-                          url: "https://t.me/"
+                          url: "https://t.me/destra_ai"
                       }].map(e => (0,
                       i.jsx)("a", {
                           href: e.url,

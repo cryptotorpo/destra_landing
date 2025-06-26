@@ -99,7 +99,7 @@
                           className: "text-[#D4D4D4] text-base font-bold",
                           children: (0,
                           a.jsx)(h.default, {
-                              href: "#app",
+                              href: "https://app.destraai.pro/",
                               target: "_blank",
                               children: "App"
                           })
@@ -124,7 +124,7 @@
                           className: " flex items-center p-1.5 px-2.5 rounded-lg",
                           children: (0,
                           a.jsx)(h.default, {
-                              href: "https://t.me/",
+                              href: "https://t.me/destra_ai",
                               target: "_blank",
                               children: (0,
                               a.jsx)(i.default, {
@@ -170,7 +170,7 @@
                               children: "DOCS"
                           }), (0,
                           a.jsx)(h.default, {
-                              href: "#app",
+                              href: "https://app.destraai.pro/",
                               target: "_blank",
                               children: "App"
                           })]
@@ -212,7 +212,7 @@
                                   url: "https://x.com/"
                               }, {
                                   name: "tg",
-                                  url: "https://t.me/"
+                                  url: "https://t.me/destra_ai"
                               }].map(e => (0,
                               a.jsx)("a", {
                                   href: e.url,
@@ -344,7 +344,7 @@
                           },
                           children: (0,
                           a.jsx)(h.default, {
-                              href: "#app",
+                              href: "https://app.destraai.pro/",
                               target: "_blank",
                               children: "App"
                           })
@@ -398,7 +398,7 @@
                           className: " flex items-center gap-1 rounded-[16px] justify-end p-2 bg-white",
                           children: (0,
                           a.jsx)(h.default, {
-                              href: "https://t.me/",
+                              href: "https://t.me/destra_ai",
                               target: "_blank",
                               children: (0,
                               a.jsx)(i.default, {
@@ -491,7 +491,7 @@
                               children: "DOCS"
                           }), (0,
                           a.jsx)(h.default, {
-                              href: "#app",
+                              href: "https://app.destraai.pro/",
                               children: "App"
                           })]
                       }), (0,
@@ -523,7 +523,7 @@
                                   url: "https://x.com/"
                               },  {
                                   name: "tg",
-                                  url: "https://t.me/"
+                                  url: "https://t.me/destra_ai"
                               }].map(e => (0,
                               a.jsx)("a", {
                                   href: e.url,
