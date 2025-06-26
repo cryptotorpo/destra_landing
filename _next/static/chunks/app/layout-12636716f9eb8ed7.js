@@ -90,7 +90,7 @@
                           className: "text-[#D4D4D4] text-base font-bold",
                           children: (0,
                           a.jsx)(h.default, {
-                              href: "#docs",
+                              href: "http://docs.destraai.pro",
                               target: "_blank",
                               children: "Docs"
                           })
@@ -165,7 +165,7 @@
                           className: "flex flex-col gap-y-6 text-2xl font-bold",
                           children: [(0,
                           a.jsx)(h.default, {
-                              href: "#docs",
+                              href: "http://docs.destraai.pro",
                               className: "text-red-500",
                               children: "DOCS"
                           }), (0,
@@ -322,7 +322,7 @@
                           },
                           children: (0,
                           a.jsx)(h.default, {
-                              href: "#docs",
+                              href: "http://docs.destraai.pro",
                               target: "_blank",
                               className: "text-red-500",
                               children: "Docs"
@@ -486,7 +486,7 @@
                           className: "flex flex-col gap-y-6 text-2xl font-bold",
                           children: [(0,
                           a.jsx)(h.default, {
-                              href: "#docs",
+                              href: "http://docs.destraai.pro",
                               className: "text-red-500",
                               children: "DOCS"
                           }), (0,

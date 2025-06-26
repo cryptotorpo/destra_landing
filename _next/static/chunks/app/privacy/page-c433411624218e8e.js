@@ -203,10 +203,10 @@
                       className: "flex flex-wrap justify-center items-center gap-x-6",
                       children: [{
                           name: "docs",
-                          link: "#docs"
+                          link: "http://docs.destraai.pro"
                       }, {
                           name: "app",
-                          link: "#app"
+                          link: "https://app.destraai.pro/"
                       }].map(e => (0,
                       a.jsx)(i.default, {
                           href: e.link,
