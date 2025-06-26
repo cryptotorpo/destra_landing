@@ -219,7 +219,7 @@
                       className: "flex items-center gap-x-6",
                       children: [{
                           name: "x",
-                          url: "https://x.com/"
+                          url: "https://x.com/DestraNetAI"
                       },  {
                           name: "tg",
                           url: "https://t.me/destra_ai"
