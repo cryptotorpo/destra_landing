@@ -160,7 +160,7 @@
           })
             , [m,u] = (0,
           l.useState)(!1)
-            , h = "0x00000000000000000000000000000000000000"
+            , h = "0xc48cfb4c42e5edfc0143825c8ed39e04c837ca45"
             , p = async () => {
               try {
                   await navigator.clipboard.writeText(h),
