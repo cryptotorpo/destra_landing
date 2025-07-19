@@ -160,7 +160,7 @@
           })
             , [m,u] = (0,
           l.useState)(!1)
-            , h = "0x0bfcb3bc35af28f2604f6f9580204701bb55e826"
+            , h = "0x00000000000000000000000000000000000000"
             , p = async () => {
               try {
                   await navigator.clipboard.writeText(h),
@@ -219,10 +219,10 @@
                       className: "flex items-center gap-x-6",
                       children: [{
                           name: "x",
-                          url: "https://x.com/DestraAI_Eth"
+                          url: "https://x.com/Destra_Eth"
                       },  {
                           name: "tg",
-                          url: "https://t.me/destraai_eth"
+                          url: "https://t.me/destra_eth"
                       }].map(e => (0,
                       a.jsx)("a", {
                           href: e.url,

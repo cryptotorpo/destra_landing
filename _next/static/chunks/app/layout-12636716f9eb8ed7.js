@@ -59,7 +59,7 @@
           r.useState)(!1)
             , l = async () => {
               try {
-                  await navigator.clipboard.writeText("0x0bfcb3bc35af28f2604f6f9580204701bb55e826"),
+                  await navigator.clipboard.writeText("0x00000000000000000000000000000000000000"),
                   n(!0),
                   setTimeout( () => n(!1), 2e3)
               } catch (e) {
@@ -124,7 +124,7 @@
                           className: " flex items-center p-1.5 px-2.5 rounded-lg",
                           children: (0,
                           a.jsx)(h.default, {
-                              href: "https://t.me/destraai_eth",
+                              href: "https://t.me/destra_eth",
                               target: "_blank",
                               children: (0,
                               a.jsx)(i.default, {
@@ -209,10 +209,10 @@
                               className: "flex items-center gap-x-3",
                               children: [{
                                   name: "x",
-                                  url: "https://x.com/DestraAI_Eth"
+                                  url: "https://x.com/Destra_Eth"
                               }, {
                                   name: "tg",
-                                  url: "https://t.me/destraai_eth"
+                                  url: "https://t.me/destra_eth"
                               }].map(e => (0,
                               a.jsx)("a", {
                                   href: e.url,
@@ -263,7 +263,7 @@
           r.useState)(!1)
             , y = async () => {
               try {
-                  await navigator.clipboard.writeText("0x0bfcb3bc35af28f2604f6f9580204701bb55e826"),
+                  await navigator.clipboard.writeText("0x00000000000000000000000000000000000000"),
                   w(!0),
                   setTimeout( () => w(!1), 2e3)
               } catch (e) {
@@ -398,7 +398,7 @@
                           className: " flex items-center gap-1 rounded-[16px] justify-end p-2 bg-white",
                           children: (0,
                           a.jsx)(h.default, {
-                              href: "https://t.me/destraai_eth",
+                              href: "https://t.me/destra_eth",
                               target: "_blank",
                               children: (0,
                               a.jsx)(i.default, {
@@ -520,10 +520,10 @@
                               className: "flex items-center gap-x-3",
                               children: [{
                                   name: "x",
-                                  url: "https://x.com/DestraAI_Eth"
+                                  url: "https://x.com/Destra_Eth"
                               },  {
                                   name: "tg",
-                                  url: "https://t.me/destraai_eth"
+                                  url: "https://t.me/destra_eth"
                               }].map(e => (0,
                               a.jsx)("a", {
                                   href: e.url,
